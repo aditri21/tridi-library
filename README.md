@@ -1,4 +1,4 @@
-# Perpusweb-ci3
+# Sistem Perpustakaan Buku Digital - Tridi Library
 
 Load Mpdf
 
